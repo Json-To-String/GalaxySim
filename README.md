@@ -1,14 +1,3 @@
-# GalaxySim
-Simulation of the tidal interaction of two galaxies for different initial conditions such as
-* Light Intruder
-* Heavy Intruder
-* Retrograde Passage
-* Direct Passage
-
-based off of the 1972 Toomre and Toomre paper
-https://pubs.giss.nasa.gov/abs/to03000u.html
-
-
 # Galaxy Mergers Simulation
 
 ## Introduction
@@ -37,5 +26,5 @@ A heavier intruder in direct passage disrupted both galaxies, with significant d
 This project recreates aspects of the Toomre Brothers' work, demonstrating the application of numerical methods in understanding galaxy mergers. While not capturing all complexities, the simulation confirms the formation of tidal tails and bridges observed in previous studies, providing valuable insights into galaxy evolution.
 
 ## References
-1. Toomre Brothers Simulation: [Link](http://www.spaceref.com/news/viewpr.html?pid=8197)
+1. Toomre Brothers Paper: [Link](https://pubs.giss.nasa.gov/abs/to03000u.html)
 2. Bournaud, Duc, & Emsellem Paper: [Link](https://academic.oup.com/mnrasl/article/389/1/L8/996886)
